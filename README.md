@@ -2,7 +2,7 @@
 ![X-killweb preview](X-killweb.png)
 
 ## introduction
-Tool Information Gathering Write With Python
+Tool Information Gathering web Write With Python
 
 ## Instalations for Termux
 ```
@@ -43,5 +43,5 @@ $ python3 webkiller.py
 Follow me: [Whatsapp](https://wa.me/6287855190571),[Youtube](https://youtube.com/@whomrx666),[Tiktok](https://www.tiktok.com/@whomr.x),[Facebook](https://www.facebook.com/whomrx.666),[Telegram](https://t.me/@Whomr_X),&[Website](https://whomrxhackers.blogspot.com/)
 
 **If you want to donate, click on the button**
-<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-X tool-yellow?style=for-the-badge&logo=github"></a>
+<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-X killweb-yellow?style=for-the-badge&logo=github"></a>
 
