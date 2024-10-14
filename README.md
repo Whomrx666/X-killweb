@@ -24,7 +24,7 @@ $ apt install git
 $ git clone https://github.com/Whomrx666/X-killweb.git
 $ cd X-killweb
 $ pip3 install -r requirements.txt
-$ python3 webkiller.py 
+$ python3 X-killweb.py
 ```
 ## Operating Systems Tested
 - Kali Linux 2020.1
